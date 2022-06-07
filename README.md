@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, sou Edy Carlos, estudante e futuro Programador!
 
 <div align="center">
   <a href="https://github.com/EdyCarlossouza">
