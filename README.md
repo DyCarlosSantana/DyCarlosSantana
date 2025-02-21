@@ -67,7 +67,7 @@
 
 ### 📊 Estatísticas
 
-<p>
+<p  align="center" >
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -83,4 +83,4 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdyCarlosSouza&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</p >
