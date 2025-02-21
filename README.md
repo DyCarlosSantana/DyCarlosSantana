@@ -1,7 +1,12 @@
-# Olá
- Me chamo Edy Carlos, tenho 21 anos e sou natural do Pará.
-🎓 Estudante de Análise e Desenvolvimento de Sistemas.  
+# Olá, sou Edy Carlos Santana
+🎓 Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal.  
+💻 Entusiasta por tecnologia, desenvolvimento de software e automação.  
 🐍 Explorando Python para automação e desenvolvimento web.  
+🚀 Sempre aprendendo a adquirindo mais conhecimento! 
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](---)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dycarlos_ss/)
+[![linkedin](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Carlitusss/)
 
 ---
 
