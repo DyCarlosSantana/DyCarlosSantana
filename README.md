@@ -1,5 +1,5 @@
 # Olá, sou Edy Carlos Santana
-🎓 Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal.  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas.  
 💻 Entusiasta por tecnologia, desenvolvimento de software e automação.  
 🐍 Explorando Python para automação e desenvolvimento web.  
 🚀 Sempre aprendendo a adquirindo mais conhecimento! 
