@@ -1,4 +1,5 @@
-# Olá, sou Edy Carlos Santana
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Edy+Carlos+Santana)](https://git.io/typing-svg)
+
 🎓 Estudante de Análise e Desenvolvimento de Sistemas.  
 💻 Entusiasta por tecnologia, desenvolvimento de software e automação.  
 🐍 Explorando Python para automação e desenvolvimento web.  
@@ -84,3 +85,4 @@
   />
 
 </p >
+from manim impor
