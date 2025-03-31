@@ -6,8 +6,9 @@
 🚀 Sempre aprendendo e adquirindo mais conhecimento! 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edy-carlos-santana-a206222b0/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dycarlos_ss/)
-[![linkedin](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Carlitusss/)
+[![Instagram](https://img.shields.io/badge/Instagram-9C27B0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dycarlos_ss/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Carlitusss/)
+[![Gumroad](https://img.shields.io/badge/Gumroad-E4405F?style=for-the-badge&logo=gumroad&logoColor=white)](https://edysantazo.gumroad.com/#ZWXjRdMiZN9vgk3awpvbqg==)
 
 ---
 
