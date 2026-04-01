@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Edy+Carlos+Santana)](https://git.io/typing-svg)
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas.  
-💻 Entusiasta por tecnologia, desenvolvimento de software e automação.  
-🐍 Explorando Python para automação e desenvolvimento web.  
-🚀 Sempre aprendendo e adquirindo mais conhecimento! 
+🎓 Análise e Desenvolvimento de Sistemas.  
+💻 Entusiasta por tecnologia, desenvolvimento de software e automação.
+🐍 Explorando Python para automações.  
+🚀 Aprendendo e adquirindo mais conhecimento!
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-santana-a206222b0/)
 [![Instagram](https://img.shields.io/badge/Instagram-9C27B0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dycarlos_ss/)
