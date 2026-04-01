@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Edy+Carlos+Santana)](https://git.io/typing-svg)
 
 🎓 Análise e Desenvolvimento de Sistemas.  
-💻 Entusiasta por tecnologia, desenvolvimento de software e automação.
+💻 Entusiasta por tecnologia, desenvolvimento de software e automação. <br>
 🐍 Explorando Python para automações.  
 🚀 Aprendendo e adquirindo mais conhecimento!
 
