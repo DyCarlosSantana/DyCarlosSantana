@@ -8,7 +8,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-santana-a206222b0/)
 [![Instagram](https://img.shields.io/badge/Instagram-9C27B0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dycarlos_ss/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Carlitusss/)
-[![Gumroad](https://img.shields.io/badge/Gumroad-E4405F?style=for-the-badge&logo=gumroad&logoColor=white)](https://edysantazo.gumroad.com/#ZWXjRdMiZN9vgk3awpvbqg==)
+[![Gumroad](https://dycarlos.gumroad.com/l/SeconBrain-pixel?_gl=1*1vgc31j*_ga*OTU3NTg3MjAxLjE3NzU0NzYxODM.*_ga_6LJN6D94N6*czE3NzU0NzYxODIkbzEkZzEkdDE3NzU0NzYzNjIkajM2JGwwJGgw)
 
 ---
 
