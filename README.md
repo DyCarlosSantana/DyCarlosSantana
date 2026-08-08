@@ -35,5 +35,5 @@ Sempre aprendendo — sem pressa, sem pausa.
 
 <br/>
 
-</div> <br/> <div align="center"> <img width="50%" src="./metrics.svg" alt="GitHub metrics" /> </div> <br/> <div align="center">
+</div> <br/> <div align="center"> <img width="100%" src="./metrics.svg" alt="GitHub metrics" /> </div> <br/> <div align="center">
 <br/>
