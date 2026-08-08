@@ -39,5 +39,7 @@ Sempre aprendendo — sem pressa, sem pausa.
 </div>
 
 ```
-(👉ﾟヮﾟ)👉 Acesse o Repositorio "Library_Dy" que tem como objetivo ajudar desenvolvedores a crescerem tanto tecnicamente quanto pessoalmente, compartilhando conhecimento e boas leituras. Repositorio anexado logo abaixo (◔◡◔)
+(👉ﾟヮﾟ)👉 Acesse o Repositorio "Library_Dy" que tem como objetivo ajudar desenvolvedores a crescerem tanto tecnicamente quanto pessoalmente,
+compartilhando conhecimento e boas leituras.
+Repositorio anexado logo abaixo (◔◡◔)
 ```
