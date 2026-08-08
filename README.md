@@ -1,12 +1,16 @@
 <div align="center">
   <img src="./banner.svg" alt="Edy Carlos Santana" width="100%" />
 </div>
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-santana-a206222b0/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dycarlos_ss/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/Carlitusss/)
+[![Gumroad](https://img.shields.io/badge/Gumroad-FF90E8?style=flat&logo=gumroad&logoColor=black)](https://dycarlos.gumroad.com/l/SeconBrain-pixel)
+
+</div>
 <br/>
 
-```bash
-edy@dev:~$ whoami
-```
 ```
 Análise e Desenvolvimento de Sistemas.
 Entusiasta por tecnologia, desenvolvimento de software e automação.
@@ -31,18 +35,5 @@ Sempre aprendendo — sem pressa, sem pausa.
 
 <br/>
 
-<div align="center">
-<img width="46%" src="https://github-readme-stats.vercel.app/api?username=DyCarlosSantana&show_icons=true&count_private=true&hide_border=true&hide_rank=true&theme=transparent&title_color=111111&icon_color=111111&text_color=6b6b6b" alt="stats" />
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyCarlosSantana&layout=compact&hide_border=true&theme=transparent&title_color=111111&text_color=6b6b6b" alt="top langs" />
-</div>
-
+</div> <br/> <div align="center"> <img width="50%" src="./metrics.svg" alt="GitHub metrics" /> </div> <br/> <div align="center">
 <br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-santana-a206222b0/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dycarlos_ss/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/Carlitusss/)
-[![Gumroad](https://img.shields.io/badge/Gumroad-FF90E8?style=flat&logo=gumroad&logoColor=black)](https://dycarlos.gumroad.com/l/SeconBrain-pixel)
-
-</div>
