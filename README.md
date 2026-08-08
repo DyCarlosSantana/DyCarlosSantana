@@ -32,8 +32,8 @@ Sempre aprendendo — sem pressa, sem pausa.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="34" height="34" alt="Git" title="Git"/>
 
 </div>
+<br/> 
 
-<br/>
-
-</div> <br/> <div align="center"> <img width="100%" src="./metrics.svg" alt="GitHub metrics" /> </div> <br/> <div align="center">
-<br/>
+<div align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=graywhite&fontFamily=Days%20One&preferLogin=true">    <img  alt="DyCarlosSantana's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/DyCarlosSantana?cardType=level&theme=graywhite&fontFamily=Days%20One&preferLogin=true" />  </a>
+</div>
