@@ -37,9 +37,8 @@ Sempre aprendendo — sem pressa, sem pausa.
 <div align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=graywhite&fontFamily=Days%20One&preferLogin=true">    <img  alt="DyCarlosSantana's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/DyCarlosSantana?cardType=level&theme=graywhite&fontFamily=Days%20One&preferLogin=true" />  </a>
 </div>
+</br>
 
 ```
-(👉ﾟヮﾟ)👉 Acesse o Repositorio "Library_Dy" que tem como objetivo ajudar desenvolvedores
-a crescerem tanto tecnicamente quanto pessoalmente, compartilhando conhecimento e boas leituras.
-Repositorio anexado logo abaixo (◔◡◔)
+(👉ﾟヮﾟ)👉 Acesse o Repositorio em anexo
 ```
