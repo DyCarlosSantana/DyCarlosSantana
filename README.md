@@ -39,6 +39,3 @@ Sempre aprendendo — sem pressa, sem pausa.
 </div>
 </br>
 
-```
-(👉ﾟヮﾟ)👉 Acesse o Repositorio em anexo
-```
